@@ -9,7 +9,7 @@ const port = 3001;
 app.use(bodyParser.json());
 app.use(cors());
 
-const genAI = new GoogleGenerativeAI("AIzaSyCvEjYhG3b_tAjwggZFy9CF-_qFGIIqZzA");
+const genAI = new GoogleGenerativeAI("AIzaSyCfTbgcIvGt8A0Tj3qQ9iIgnTGiGBAlkAE");
 
 app.post('/generate', async (req, res) => {
     const prompt = req.body.prompt;
