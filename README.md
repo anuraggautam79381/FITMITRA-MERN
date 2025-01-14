@@ -29,7 +29,7 @@ Fit Mitra is a project developed during industrial training by FLAMES - angaar b
 
 - **Assisted by**: FLAMES - angaar batch - Industrial Trainers
 - **Team Members**:
-1. Parv Agrawal(me)
+1. Parv Agrawal
 2. Anurag Gautam
 3. Shivam Shastri
 4. Sunil Kumar
